@@ -1,0 +1,13 @@
+footer {
+	background-color: red;
+	font-family: verdana;
+	text-align: center;
+    font-size: 30px;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+#footerText {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}

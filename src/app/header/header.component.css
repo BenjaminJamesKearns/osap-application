@@ -1,0 +1,9 @@
+header {
+	background-color: red;
+	font-family: verdana;
+	text-align: center;
+    font-size: 30px;
+}
+#headerText {
+	margin-top: 0px;
+}
